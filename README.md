@@ -2,7 +2,7 @@
 <ul>
    <li>이 프로젝트는 광전IT에서 주최한 '코드마스터 선발 대회' 참여를 위해 제작한 프로젝트입니다.</li>
    <li>오픈 API 활용을 주 목적으로 기획했습니다.</li> 
-   <li><kbd>Html</kbd>과<kbd>CSS</kbd>,<kbd>JavaScript</kbd>를 이용해 구현했습니다.</li>
+   <li><kbd>Html</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd>를 이용해 구현했습니다.</li>
 </ul>   
 &emsp;&emsp;<kbd style="width:300px; border: 1px solid ligthgray;">
    <img style="width:300px;" alt="포스터" src="https://github.com/KSJ0314/What_to_eat_today/assets/132119447/07d32d4e-7a6b-49be-8763-4f1c753155c7">
